@@ -9,9 +9,9 @@ Created with CodeSandbox
 * Challenge Three, Part Two: https://codesandbox.io/s/v3kypz1pw5
 
 ### Modules
-`index.js` : import from App and run App;
-`app.js` : import in Form and run form with App state displaying functionality
-`form.js` : export out local state and run its functions to display the inputs.
+* `index.js` : Imported from components, then just run app.
+* `app.js` : We imported the form from our components, and ran the form with app state displaying its functionality.
+* `form.js` : The form exports out the local state and runs its functions, displaying the inputs.
 
 ### Setup
 #####.env requirements
