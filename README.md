@@ -14,6 +14,6 @@ Created with CodeSandbox
 * `form.js` : The form exports out the local state and runs its functions, displaying the inputs.
 
 ### Setup
-#####.env requirements
+##### .env requirements
 * PORT - Your Port Number
 * MONGODB_URI - Need to link to whatever mongoDB you have running
